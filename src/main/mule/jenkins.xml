@@ -16,7 +16,8 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
-	"message": "Working on Jenkins"
+	"message": "Working on Jenkins",
+	"change": "making few changes"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
